@@ -19,8 +19,8 @@
 | 08 | - | 제네릭 + Promise | |
 | 09 | - | 고급 타입 추론 | |
 | 10 | - | 오버로드 | |
-| 11 | - | declare module | |
-| 12 | - | declare module 심화 | |
+| 11 | 완료 | declare module | |
+| 12 | 진행중 | declare module 심화 | |
 | 13 | - | module augmentation | |
 | 14 | - | 커링/함수형 타이핑 | |
 | 15 | - | 제네릭 클래스 | |
